@@ -1,0 +1,14 @@
+VERIZON COMMUNICATIONS INC report:
+Residential broadband service has seen significant growth in bandwidth demand over the past several years, and we believe that demand will continue to grow. The continued emergence of new video services, new data applications and the proliferation of IP devices in the home will continue to drive new network requirements for increased data speeds and throughput. We believe that the Passive Optical Network (PON) technology underpinning Fios makes us well positioned to meet these demands in a cost-effective and efficient manner. Our PON technology provides the flexibility to adapt our network to deliver increased data speeds and new services without major overhauls or replacements to the fiber-optic infrastructure. 
+While deployed initially as a consumer broadband network, our PON infrastructure is also finding more widespread application in the enterprise sector, especially as businesses increasingly migrate to Ethernet-based access services. 
+Verizon owns and operates one of the largest global fiber networks in the world, providing connectivity to business customers in more than 150 countries. Our global IP network includes long-haul, metro and submarine assets that span over 1 million route miles and enable and support international operations.
+
+SALESFORCE INC report:
+(1) Amounts include amortization of intangible assets acquired through business combinations, as follows:  
+(2) Amounts include stock-based compensation expense, as follows:  
+(3) During fiscal 2021, the Company recorded approximately $ 2.0 billion of a one-time benefit from a discrete tax item related to the recognition of deferred tax assets resulting from an intra-entity transfer of intangible property.
+
+ALLSTATE CORP report:
+Other revenue represents fees collected from policyholders relating to premium installment payments, commissions on sales of non-proprietary products, sales of identity protection services, fee-based services and other revenue transactions. Other revenue is recognized when performance obligations are fulfilled. 
+Company recognizes Medicare-related and other accident and health commission revenues equal to the estimated life-time value of the revenues at the time when the policy is sold, net of an allowance for estimated policy cancellations, as no further performance obligations exist. The allowance for estimated third-party cancellations is periodically evaluated and adjusted as necessary. 
+Costs that are related directly to the successful acquisition of new or renewal policies or contracts are deferred and recorded as deferred policy acquisition costs (“DAC”). These costs are principally agent and broker remuneration, premium taxes and certain underwriting expenses. All other acquisition costs are expensed as incurred and included in operating costs and expenses.

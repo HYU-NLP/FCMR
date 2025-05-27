@@ -1,0 +1,14 @@
+SALESFORCE INC report:
+The functional currency of the Company’s major foreign subsidiaries is generally the local currency. All assets and liabilities denominated in a foreign currency are translated into U.S. dollars at the exchange rate on the balance sheet date. Revenues and expenses are translated at the average exchange rate during the period. Equity transactions are translated using historical exchange rates. Adjustments resulting from translating foreign functional currency financial statements into U.S. 
+dollars are recorded as a separate component on the consolidated statement of comprehensive income. Foreign currency transaction gains and losses are included in other income in the consolidated statement of operations for the period. 
+The Company’s enterprise cloud computing services are typically warranted to perform in a manner consistent with general industry standards that are reasonably applicable and materially in accordance with the Company’s online help documentation under normal use and circumstances.
+
+BOEING CO report:
+We inquired of the Company’s management, including individuals responsible for sales and pricing, to evaluate the status of current sales campaigns, short and long-term market demand, and overall program status. 
+We evaluated the appropriateness and consistency of management’s methods and assumptions used in developing its estimates related to the initial program accounting quantity and revenue for unsold units. 
+We tested the effectiveness of controls including those over the data used in developing the estimates, the mathematical extrapolation of such data, and management’s judgment regarding the range of possible outcomes relating to the specific estimates.
+
+ALLSTATE CORP report:
+• Combined ratio : the sum of the loss ratio and the expense ratio. The difference between 100% and the combined ratio represents underwriting income as a percentage of premiums earned, or underwriting margin. 
+• Effect of catastrophe losses on combined ratio : the ratio of catastrophe losses included in claims and claims expense to premiums earned. This ratio includes prior year reserve reestimates of catastrophe losses. 
+• Effect of prior year reserve reestimates on combined ratio : the ratio of prior year reserve reestimates included in claims and claims expense to premiums earned. This ratio includes prior year reserve reestimates of catastrophe losses.

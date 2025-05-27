@@ -1,0 +1,14 @@
+ALLSTATE CORP report:
+We do not allocate Property-Liability investment income, net gains and losses on investments and derivatives, or assets to the Allstate Protection and Run-off Property-Liability segments. Management reviews assets at the Property-Liability level for decision-making purposes. 
+• Expense ratio: the ratio of amortization of DAC, operating costs and expenses, amortization or impairment of purchased intangibles, restructuring and related charges and Shelter-in-Place Payback expense, less other revenue to premiums earned. 
+We have also calculated the following impacts of specific items on the GAAP operating ratios because of the volatility of these items between periods. The impacts are calculated by taking the specific items noted below divided by Property-Liability premiums earned:
+
+VERIZON COMMUNICATIONS INC report:
+3,818   —   34   3,852   Reclassifications, adjustments and other 2   ( 20 ) ( 4 ) ( 22 ) Balance at December 31, 2021 21,042   7,515   46   28,603   Acquisitions (3) 
+(1) Goodwill is net of accumulated impairment charges of $ 4.8 billion, related to our historical Media reporting unit, which included Verizon Media. On September 1, 2021, we completed the sale of Verizon Media. See Note 3 for additional information. 
+(4) Includes a goodwill impairment charge of $ 16 million related to an early stage development company presented within Other, recorded in Selling, general and administrative expense in our consolidated statement of income for the year ended December 31, 2022.
+
+SALESFORCE INC report:
+We believe more companies may become competitive threats due to the accelerated shift to cloud and hosted service offerings and customer experience management solutions. We also expect our competition to change and evolve as we expand into more markets, with new offerings and verticals. 
+We sell to businesses of all sizes and in almost every industry worldwide. The number of paying subscriptions at each of our customers ranges from one to hundreds of thousands. None of our customers accounted for more than five percent of our revenues in fiscal years 2022, 2021 or 2020. In addition, we do not have any material dependencies on any specific product, service or particular group or groups. 
+We offer professional services to help customers achieve business results faster with Salesforce solutions. Our architects and innovation program teams act as advisors to plan and execute digital transformations for our customers. This includes implementation services for multi-cloud and complex deployments. We provide best-practices and AI-based recommendations and adoption programs globally. In addition, we provide advanced education, including in-person and online courses to certify our customers and partners on architecting, administering, deploying and developing our service offerings.

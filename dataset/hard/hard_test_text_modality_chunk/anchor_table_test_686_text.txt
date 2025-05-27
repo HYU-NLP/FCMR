@@ -1,0 +1,14 @@
+VERIZON COMMUNICATIONS INC report:
+Common stock has been used from time to time to satisfy some of the funding requirements of employee and shareholder plans. During the years ended December 31, 2021, 2020, and 2019, we issued 2.1 million, 2.3 million and 3.8 million common shares from treasury stock, respectively, which had an insignificant aggregate value. 
+In connection with our acquisition of Tracfone in November 2021, we issued approximately 57.6 million shares of Verizon common shares from treasury stock valued at approximately $ 3.0 billion. See Note 3 for additional information. 
+Comprehensive income consists of net income and other gains and losses affecting equity that, under U.S. GAAP, are excluded from net income. Significant changes in the components of Other comprehensive loss, net of provision for income taxes are described below.
+
+SALESFORCE INC report:
+All of the Company’s cash equivalents, marketable securities and foreign currency derivative contracts are classified within Level 1 or Level 2 because the Company’s cash equivalents, marketable securities and foreign currency derivative contracts are valued using quoted market prices or alternative pricing sources and models utilizing observable market inputs. 
+The following table presents information about the Company’s assets and liabilities that are measured at fair value as of January 31, 2021 and indicates the fair value hierarchy of the valuation (in millions): 
+The following table presents information about the Company’s assets and liabilities that are measured at fair value as of January 31, 2020 and indicates the fair value hierarchy of the valuation (in millions):
+
+BUNGE GLOBAL SA report:
+Energy Derivatives —We use derivative instruments for various purposes, including to manage our exposure to volatility in energy costs and our exposure to market prices related to the sale of biofuels. Our operations use substantial amounts of energy, including natural gas, coal, and fuel oil, including bunker fuel. Changes in the fair values of energy derivatives are recorded in Cost of goods sold. 
+Other Derivatives —We may also enter into other derivatives, including credit default swaps and equity derivatives, to manage our exposure to credit risk and broader macroeconomic risks, respectively. The impact of changes in fair value of these instruments is presented in Cost of goods sold. 
+Our financial statements and related schedule required by this item are contained on pages F-1 through F-73 and on page E-1 included as part of this Annual Report on Form 10-K. See Item 15(a) for a listing of financial statements provided.
